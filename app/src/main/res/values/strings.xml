@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">E Commerce App</string>
+    <string name="introtitle"><font color="#000000">Unveiling a World</font> \n<font color="#008b86">Toys &amp; accessories &amp; Foods</font> \n<font color="#000000">For Your Pet</font></string>
+    <string name="introtext">Browse the latest styles from top brands\n get personalised recommendations\nEnjoy fast, free delivery</string>
+    <string name="intro_signin">Already have an account?<font color="#008b86"> Sign In</font> </string>
+
+
+</resources>
